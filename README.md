@@ -1,6 +1,4 @@
 # JavaScript-ile-Benzersiz-Liste-Alma
-
-JavaScript ile Benzersiz Liste Alma
 =================================
 
 Bir dizi içerisinden benzersiz kayıt listesi alır.
